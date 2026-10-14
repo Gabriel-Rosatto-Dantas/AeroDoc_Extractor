@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+
+# Local configuration and credentials
+aerodoc_config.json
+credentials.json
+config.ini
+config_boeing.ini
+mxi_config.ini
+boeing_config.ini
+token.json
+
+# Runtime output
+downloads/
+logs/
+screenshots/
+*/downloads/
+*/logs/
+*/screenshots/
+*.log
+*.crdownload
+
+# Local browser profiles
+*/.chrome-profile/
+boeing_debug/

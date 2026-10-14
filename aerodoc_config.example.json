@@ -1,0 +1,13 @@
+{
+  "mxi_config": "mxi_config.ini",
+  "latam_email": "usuario@latam.com",
+  "latam_password": "",
+  "airbus_user": "",
+  "airbus_password": "",
+  "toolbox_user": "",
+  "toolbox_password": "",
+  "mxi_user": "",
+  "mxi_password": "",
+  "download_dir": "downloads",
+  "platform": "macos"
+}
